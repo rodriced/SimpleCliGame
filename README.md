@@ -1,4 +1,4 @@
-This simple terminal-based game is my first Swift project realized for an Openclassrooms iOS developer training.
+This simple terminal-based game is the first Swift project of my Openclassrooms iOS developer training.
 
 ## Description
 The play consists of a fight like those in role games.
